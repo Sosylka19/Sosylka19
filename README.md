@@ -1,4 +1,4 @@
-![Banner]([/Users/aleksandrandreev/Documents/497DC3AC-3682-4A29-8E03-01A146BD1D22 копия.png](https://cloud.mail.ru/public/X3V3/mBsqS7HCv))
+![Banner](https://cloud.mail.ru/public/X3V3/mBsqS7HCv)
 
 ###🚾About me
 
