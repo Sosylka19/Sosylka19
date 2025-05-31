@@ -7,16 +7,19 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 ### 🚾Programming stack:
 
-<div id="badges">
-  ><img src="https://github.com/Sosylka19/Sosylka19/blob/main/ISO_C%2B%2B_Logo.svg.png" width="30"/>
+><div id="badges">
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/ISO_C%2B%2B_Logo.svg.png" width="30"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Unknown.png" width="40"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/images.png" width="30"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/python-logo-only.png" width="30"/>
 </div>
 
 ### Instruments
-><img src="https://github.com/Sosylka19/Sosylka19/blob/main/97_Docker_logo_logos-512.webp" width="30"/>
-<img src="https://github.com/Sosylka19/Sosylka19/blob/main/Git_icon.svg.png" width="30"/>
+><div id="badges">
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/97_Docker_logo_logos-512.webp" width="30"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Git_icon.svg.png" width="30"/>
+</div>
+
 
 ### 🚾Active projects:
 
