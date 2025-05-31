@@ -1,4 +1,4 @@
-![Banner]([https://cloud.mail.ru/public/X3V3/mBsqS7HCv](https://github.com/Sosylka19/Sosylka19/blob/main/497DC3AC-3682-4A29-8E03-01A146BD1D22.jpg))
+![Banner](https://github.com/Sosylka19/Sosylka19/blob/main/497DC3AC-3682-4A29-8E03-01A146BD1D22.jpg)
 
 ###🚾About me
 
