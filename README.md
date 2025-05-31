@@ -1,4 +1,4 @@
-<img src="https://github.com/Sosylka19/Sosylka19/blob/main/IMG_1460.JPG" width="800"/>
+<img src="https://github.com/Sosylka19/Sosylka19/blob/main/IMG_1460.JPG" width="650"/>
 
 ### 🚾About Me :
 
