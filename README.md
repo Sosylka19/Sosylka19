@@ -1,4 +1,4 @@
-![Banner]((https://github.com/Sosylka19/Sosylka19/blob/main/IMG_1460.JPG)
+![Banner](https://github.com/Sosylka19/Sosylka19/blob/main/IMG_1460.JPG)
 
 ### 🚾About Me :
 
@@ -7,14 +7,14 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 ### 🚾Programming stack:
 
-><img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw31MXquS-SeOcJbFxWe2LDe&ust=1748806253657000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjG8I25zo0DFQAAAAAdAAAAABAE)" width="30"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3AC_Logo.png&psig=AOvVaw1xX-gp4Tt4E6VCiuUSel0e&ust=1748806286917000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCem5-5zo0DFQAAAAAdAAAAABAE" width="40"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fpython-logo%2F168886&psig=AOvVaw2aHhA072HgmDRKoI2t1q2_&ust=1748806310848000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi4qKq5zo0DFQAAAAAdAAAAABAp" width="30"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvariwiki.com%2Findex.php%3Ftitle%3DFile%3AQt_logo.png&psig=AOvVaw3g8ymMo2LeSDFuoFCL-Pg3&ust=1748806333164000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDAwbO5zo0DFQAAAAAdAAAAABAE" width="30"/>
+><img src="https://github.com/Sosylka19/Sosylka19/blob/main/ISO_C%2B%2B_Logo.svg.png" width="30"/>
+<img src="https://github.com/Sosylka19/Sosylka19/blob/main/Unknown.png" width="40"/>
+<img src="https://github.com/Sosylka19/Sosylka19/blob/main/images.png" width="30"/>
+<img src="https://github.com/Sosylka19/Sosylka19/blob/main/python-logo-only.png" width="30"/>
 
-###Instruments
-><img src="/Users/aleksandrandreev/Downloads/Git_icon.svg.png" width="30"/>
-<img src="/Users/aleksandrandreev/Downloads/97_Docker_logo_logos-512.webp" width="30"/>
+### Instruments
+><img src="https://github.com/Sosylka19/Sosylka19/blob/main/97_Docker_logo_logos-512.webp" width="30"/>
+<img src="https://github.com/Sosylka19/Sosylka19/blob/main/Git_icon.svg.png" width="30"/>
 
 ### 🚾Active projects:
 
