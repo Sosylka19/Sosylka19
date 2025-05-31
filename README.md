@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Sosylka19/Sosylka19/blob/main/497DC3AC-3682-4A29-8E03-01A146BD1D22.jpg)
 
-###🚾About me
+###🚾:About me
 
 >I'm a high school student.
 Studying at Higher School of Economics. Working on projects, learning math, programming and enjoying sport.
