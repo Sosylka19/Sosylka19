@@ -30,7 +30,7 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 <div >
 
-  <h1> Instruments </h1>
+  <h1> 🚾Instruments </h1>
 
 </div>
 
