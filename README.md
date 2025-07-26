@@ -8,7 +8,7 @@
 Studying at Higher School of Economics. Working on projects, learning math, programming and enjoying sport.
 
 
-<div align="center">
+<div >
 
   <h1>🚾Programming stack:</h1>
 
@@ -28,7 +28,7 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 </div>
 
 
-<div align="center">
+<div >
 
   <h1> Instruments </h1>
 
@@ -39,64 +39,64 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Git_icon.svg.png" width="50"/>
 </div>
 
-<div align="center">
+<div >
 
   <h1> 🚾Active projects: </h1>
 
 </div>
 
-<div align="center">
+<div >
   💤 <a href="https://github.com/Spaceboy450/data_analysis_hse">Mushrooms classification and data analysis</a>
 </div>
 
 
-<div align="center">
+<div >
 
   <h1> 🚾Education </h1>
 
 </div>
 
-<div align="center">
+<div >
    <a href="https://www.hse.ru/ba/isct/"> 💤 Computer Science and Engineering</a>
 </div>
 
-<div align="center">
+<div >
    <a href="https://electives.hse.ru/applied_stat/"> 💤 Minor</a>
 </div>
 
-<div align="center">
+<div >
    <a href="https://www.hse.ru/edu/courses/925097327"> 💤 From automating experiments to solving equations (Python and Wolfram Mathematica)</a>
 </div>
 
-<div align="center">
+<div >
 
   <h2> Other skills </h2>
 
 </div>
 
-<div align="center">
+<div >
 
   <h2> 💤 Ux/Ui - designer </h2>
 
 </div>
 
-<div align="center">
+<div >
   &gt; <a href="https://dprofile.ru/sosylka">Portfolio</a>
 </div>
 
 
-<div align="center">
+<div >
 
   <h2> 💤 Hockey-player </h2>
 
 </div>
 
-<div align="center">
+<div >
   &gt; <a href="https://r-hockey.ru/people/player/583-001-0103927-5">Statistics</a>
 </div>
 
 
-<div align="center">
+<div >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Sosylka19" alt="Ava's Github Stats" />
   </a>
