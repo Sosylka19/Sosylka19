@@ -10,7 +10,7 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/ISO_C%2B%2B_Logo.svg.png" width="30"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/qt.png" width="40"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/c.png" width="30"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/opencv.jpg" width="30"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/opencv.png" width="30"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/pandas.jpg" width="30"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/seaborn.jpg" width="30"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/matplotlib.jpg" width="30"/>
