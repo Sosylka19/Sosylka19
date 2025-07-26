@@ -56,11 +56,17 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 </div>
 
-💤 [Computer Science and Engineering](https://www.hse.ru/ba/isct/)
+<div align="center">
+   <a href="https://www.hse.ru/ba/isct/"> 💤 Computer Science and Engineering</a>
+</div>
 
-💤 [Minor](https://electives.hse.ru/applied_stat/)
+<div align="center">
+   <a href="https://electives.hse.ru/applied_stat/"> 💤 Minor</a>
+</div>
 
-💤  [From automating experiments to solving equations (Python and Wolfram Mathematica)](https://www.hse.ru/edu/courses/925097327)
+<div align="center">
+   <a href="https://www.hse.ru/edu/courses/925097327"> 💤 From automating experiments to solving equations (Python and Wolfram Mathematica)</a>
+</div>
 
 <div align="center">
 
@@ -68,14 +74,33 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 </div>
 
-##### 💤 Ux/Ui - designer
->[Portfolio](https://dprofile.ru/sosylka)
+<div align="center">
 
-##### 💤 Hockey-player
->[Statistics](https://r-hockey.ru/people/player/583-001-0103927-5)
+  <h2> 💤 Ux/Ui - designer </h2>
+
+</div>
+
+<div align="center">
+  &gt; <a href="https://dprofile.ru/sosylka">Portfolio</a>
+</div>
 
 
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=Sosylka19)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+  <h2> 💤 Hockey-player </h2>
+
+</div>
+
+<div align="center">
+  &gt; <a href="https://r-hockey.ru/people/player/583-001-0103927-5">Statistics</a>
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sosylka19" alt="Ava's Github Stats" />
+  </a>
+</div>
 
 
 
