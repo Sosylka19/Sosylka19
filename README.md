@@ -1,9 +1,13 @@
+<div align="center">
 
-### 🚾About Me :
+  <h1>🚾About Me :</h1>
+
+</div>
 
 >I'm a high school student.
 Studying at Higher School of Economics. Working on projects, learning math, programming and enjoying sport.
->
+
+
 <div align="center">
 
   <h1>🚾Programming stack:</h1>
@@ -23,19 +27,32 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/python-logo-only.png" width="50"/>
 </div>
 
-### Instruments
+
+<div align="center">
+
+  <h1> Instruments </h1>
+
+</div>
+
 <div align="center" div id="badges">
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/97_Docker_logo_logos-512.webp" width="50"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Git_icon.svg.png" width="50"/>
 </div>
 
+<div align="center">
 
-### 🚾Active projects:
+  <h1> 🚾Active projects: </h1>
+
+</div>
 
 💤 [Mushrooms classification and data analysis](https://github.com/Spaceboy450/data_analysis_hse)
 
 
-### 🚾Education
+<div align="center">
+
+  <h1> 🚾Education </h1>
+
+</div>
 
 💤 [Computer Science and Engineering](https://www.hse.ru/ba/isct/)
 
@@ -43,7 +60,11 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 💤  [From automating experiments to solving equations (Python and Wolfram Mathematica)](https://www.hse.ru/edu/courses/925097327)
 
-### Other skills
+<div align="center">
+
+  <h2> Other skills </h2>
+
+</div>
 
 ##### 💤 Ux/Ui - designer
 >[Portfolio](https://dprofile.ru/sosylka)
