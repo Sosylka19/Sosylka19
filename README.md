@@ -45,7 +45,9 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 </div>
 
-💤 [Mushrooms classification and data analysis](https://github.com/Spaceboy450/data_analysis_hse)
+<div style="text-align: center;">
+  💤 <a href="https://github.com/Spaceboy450/data_analysis_hse">Mushrooms classification and data analysis</a>
+</div>
 
 
 <div align="center">
