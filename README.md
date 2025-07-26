@@ -9,7 +9,7 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 <div id="badges">
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/ISO_C%2B%2B_Logo.svg.png" width="30"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Unknown.png" width="40"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/images.png" width="30"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" width="30"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/python-logo-only.png" width="30"/>
 </div>
 
