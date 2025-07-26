@@ -3,10 +3,14 @@
 
 >I'm a high school student.
 Studying at Higher School of Economics. Working on projects, learning math, programming and enjoying sport.
+>
+<div align="center">
 
-### 🚾Programming stack:
+  <h1>🚾Programming stack:</h1>
 
-<div id="badges">
+</div>
+
+<div align="center" div id="badges">
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/ISO_C%2B%2B_Logo.svg.png" width="50"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/qt.png" width="50"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/c.png" width="50"/>
@@ -20,7 +24,7 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 </div>
 
 ### Instruments
-<div id="badges">
+<div align="center" div id="badges">
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/97_Docker_logo_logos-512.webp" width="50"/>
   <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Git_icon.svg.png" width="50"/>
 </div>
@@ -50,6 +54,5 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 [![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=Sosylka19)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://raw.githubusercontent.com/Sosylka19/Traffic-Sign-Recognition/ml_core/github-contribution-grid-snake.svg)
 
 
