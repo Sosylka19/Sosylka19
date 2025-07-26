@@ -50,6 +50,6 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 [![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=Sosylka19)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Sosylka19/Sosylka19/blob/output/github-contribution-grid-snake.svg)
 
 
