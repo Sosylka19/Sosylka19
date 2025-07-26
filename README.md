@@ -7,16 +7,16 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 ### 🚾Programming stack:
 
 <div id="badges">
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/ISO_C%2B%2B_Logo.svg.png" width="30"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/qt.png" width="40"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/c.png" width="30"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/opencv.png" width="30"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/pandas.jpg" width="30"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/seaborn.jpg" width="30"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/matplotlib.jpg" width="30"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/onnx.jpg" width="30"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/pytorch.jpg" width="30"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/python-logo-only.png" width="30"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/ISO_C%2B%2B_Logo.svg.png" width="50"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/qt.png" width="50"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/c.png" width="50"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/opencv.png" width="50"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/pandas.png" width="50"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/seaborn.png" width="50"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/matplotlib.png" width="50"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Frame 42.png" width="50"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Frame 41.png" width="50"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/python-logo-only.png" width="50"/>
 </div>
 
 ### Instruments
