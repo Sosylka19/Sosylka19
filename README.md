@@ -21,8 +21,8 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 ### Instruments
 <div id="badges">
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/97_Docker_logo_logos-512.webp" width="30"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Git_icon.svg.png" width="30"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/97_Docker_logo_logos-512.webp" width="50"/>
+  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Git_icon.svg.png" width="50"/>
 </div>
 
 
@@ -49,5 +49,7 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 
 [![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=Sosylka19)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sosylka19&layout=compact&langs_count=8&theme=default)
 
 
