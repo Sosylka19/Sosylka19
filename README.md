@@ -49,6 +49,11 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
   💤 <a href="https://github.com/Spaceboy450/data_analysis_hse">Mushrooms classification and data analysis</a>
 </div>
 
+<div >
+  💤 <a href="https://github.com/Sosylka19/Traffic-Sign-Recognition">Traffic-sign-detection with YOLOv8</a>
+</div>
+
+
 
 <div >
 
