@@ -100,13 +100,6 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
   &gt; <a href="https://r-hockey.ru/people/player/583-001-0103927-5">Statistics</a>
 </div>
 
-<h2>  Stats</h2>
-
-
-<div>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sosylka19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 <div >
   <a href="https://github.com/anuraghazra/github-readme-stats">
