@@ -104,6 +104,7 @@ Studying at Higher School of Economics. Working on projects, learning math, prog
 
 
 <div>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sosylka19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
