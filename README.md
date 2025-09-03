@@ -1,4 +1,5 @@
-## Alex Andreev
+### Alex Andreev
+---
 
 >  _ML-engineer(CV, NLP); Python backend dev; C++ dev_
 
