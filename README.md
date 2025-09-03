@@ -1,111 +1,36 @@
-<div align="center">
+## Alex Andreev
 
-  <h1>🚾About Me :</h1>
+>  _ML-engineer(CV, NLP); Python backend dev; C++ dev_
 
-</div>
+### Programming stack
+---
+- __ML__: Torch, OpenCV, ONNX, C++
+- __Backend__: Python, FastApi, Krakend, Nginx, RabbitMQ, PostgreSQL
+- __Other__: Git, GitLab Ci, Docker
 
->I'm a high school student.
-Studying at Higher School of Economics. Working on projects, learning math, programming and enjoying sport.
+### Active projects  
+---
 
+-- [Film recommend system(Content-based)](https://github.com/Sosylka19/rec_sys)
 
-<div >
+-- [Traffic-sign-detection(YOLOv8)](https://github.com/Sosylka19/Traffic-Sign-Recognition)
 
-  <h1>🚾Programming stack:</h1>
+-- [Generate schedule based on coloring graph](https://github.com/sh1erkeh/coursework)
 
-</div>
+-- [Mushrooms classification and data analysis(Catboost)](https://github.com/Spaceboy450/data_analysis_hse)
 
-<div align="center" div id="badges">
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/ISO_C%2B%2B_Logo.svg.png" width="50"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/qt.png" width="50"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/c.png" width="50"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/opencv.png" width="50"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/pandas.png" width="50"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/seaborn.png" width="50"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/matplotlib.png" width="50"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Frame 42.png" width="50"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Frame 41.png" width="50"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/python-logo-only.png" width="50"/>
-</div>
+### Education
+---
 
+[- Computer Science and Engineering](https://www.hse.ru/ba/isct/)
 
-<div >
+[- A/B tests](https://lyceum.s3.yandex.net/2025/redesign/4.%20ab_week_ru/Андреев%20Александр.pdf?m-message-key-id=1738389456559226880&m-message-click-id=15e0de18-b23a-4da0-9c01-5fd970078568&utm_source=mindbox&utm_medium=email&utm_campaign=shad_int_certi&utm_content=0209)
 
-  <h1> 🚾Instruments </h1>
+[- Static Analysis](https://electives.hse.ru/applied_stat/)
 
-</div>
+[- From automating experiments to solving equations (Python and Wolfram Mathematica)](https://www.hse.ru/edu/courses/925097327)
 
-<div align="center" div id="badges">
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/97_Docker_logo_logos-512.webp" width="50"/>
-  <img src="https://github.com/Sosylka19/Sosylka19/blob/main/Git_icon.svg.png" width="50"/>
-</div>
-
-<div >
-
-  <h1> 🚾Active projects: </h1>
-
-</div>
-
-<div >
-  💤 <a href="https://github.com/Spaceboy450/data_analysis_hse">Mushrooms classification and data analysis</a>
-</div>
-
-<div >
-  💤 <a href="https://github.com/Sosylka19/Traffic-Sign-Recognition">Traffic-sign-detection with YOLOv8</a>
-</div>
-
-
-
-<div >
-
-  <h1> 🚾Education </h1>
-
-</div>
-
-<div >
-   <a href="https://www.hse.ru/ba/isct/"> 💤 Computer Science and Engineering</a>
-</div>
-
-<div >
-   <a href="https://electives.hse.ru/applied_stat/"> 💤 Minor</a>
-</div>
-
-<div >
-   <a href="https://www.hse.ru/edu/courses/925097327"> 💤 From automating experiments to solving equations (Python and Wolfram Mathematica)</a>
-</div>
-
-<div >
-
-  <h2> Other skills </h2>
-
-</div>
-
-<div >
-
-  <h2> 💤 Ux/Ui - designer </h2>
-
-</div>
-
-<div >
-  &gt; <a href="https://dprofile.ru/sosylka">Portfolio</a>
-</div>
-
-
-<div >
-
-  <h2> 💤 Hockey-player </h2>
-
-</div>
-
-<div >
-  &gt; <a href="https://r-hockey.ru/people/player/583-001-0103927-5">Statistics</a>
-</div>
-
-
-<div >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sosylka19" alt="Ava's Github Stats" />
-  </a>
-</div>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sosylka19&theme=merko&custom_title=My%20Contributions%20Over%20the%20Past%20Month%20📊&hide_border=true&point=FFFFFF&days=34&v=2)](https://github.com/Sosylka19)
 
 
 
