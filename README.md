@@ -10,6 +10,7 @@
 ---
 - __ML__: Torch, OpenCV, ONNX, C++, Yolo, ResNet
 - __Backend__: Python, FastApi, Krakend, Nginx, RabbitMQ, PostgreSQL
+- __Math__: Stohastic Analysis, Theory of probability, Calculus, Linear Algebra, Statistics
 - __Other__: Git, GitLab Ci, Docker
 
 ### Active projects  
