@@ -3,9 +3,12 @@
 
 >  _ML-engineer(CV, NLP); Python backend dev; C++ dev_
 
+> Working in MIEM on creating [CV-model for detection](https://cabinet.miem.hse.ru/project/2295/0/passport) [dyslexia](https://ru.wikipedia.org/wiki/Дислексия) and creating assistant for [checking notebooks-homeworks](https://cabinet.miem.hse.ru/project/2262/0/passport).
+
+
 ### Programming stack
 ---
-- __ML__: Torch, OpenCV, ONNX, C++
+- __ML__: Torch, OpenCV, ONNX, C++, Yolo, ResNet
 - __Backend__: Python, FastApi, Krakend, Nginx, RabbitMQ, PostgreSQL
 - __Other__: Git, GitLab Ci, Docker
 
